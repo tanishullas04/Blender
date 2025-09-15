@@ -66,9 +66,11 @@ Export-ready assets for use in external engines.
 ## 📜 License
 
 This project is provided for learning and personal use.
+
 Feel free to use and modify the files, but please give credit if shared publicly.
 
 ## 👨‍💻 Author
 
 Created by [tanishullas04]
+
 Blender | 3D Modeling | Animation
