@@ -54,7 +54,8 @@ Modify, render, or export as needed.
 
 Use the .fbx file in game engines or other 3D workflows.
 
-🎯 Features
+## 🎯 Features
+
 Practice models for 3D modeling and animation.
 
 Blender-native projects for learning and experimentation.
@@ -62,10 +63,12 @@ Blender-native projects for learning and experimentation.
 Export-ready assets for use in external engines.
 
 
-📜 License
+## 📜 License
+
 This project is provided for learning and personal use.
 Feel free to use and modify the files, but please give credit if shared publicly.
 
-👨‍💻 Author
+## 👨‍💻 Author
+
 Created by [tanishullas04]
 Blender | 3D Modeling | Animation
